@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "usb.h": "c",
+        "descriptors.h": "c"
+    }
+}
